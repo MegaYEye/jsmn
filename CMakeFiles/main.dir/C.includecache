@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/seanzhang/test_jsmn/main.c
+jsmn.h
+-
+stdio.h
+-
+
+jsmn.h
+stddef.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

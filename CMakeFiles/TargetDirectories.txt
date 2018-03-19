@@ -1,0 +1,5 @@
+/home/seanzhang/test_jsmn/CMakeFiles/edit_cache.dir
+/home/seanzhang/test_jsmn/CMakeFiles/jsmn.dir
+/home/seanzhang/test_jsmn/CMakeFiles/main.dir
+/home/seanzhang/test_jsmn/CMakeFiles/main2.dir
+/home/seanzhang/test_jsmn/CMakeFiles/rebuild_cache.dir
